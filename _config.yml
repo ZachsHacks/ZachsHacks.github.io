@@ -6,12 +6,9 @@ url: http://zacharyshaleweiss.com
 title: ZSW Portfolio
 email: info@zacharyshaleweiss.com
 author: Zachary S. Weiss
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
+description: > # "Zachary Shale Weiss's Personal Website"
+
 copyright: 'Copyright &copy; 2016 Zachary Weiss. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,9 +23,13 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/iliketurtles101
+  - icon: envelope-o
+    title: email
+    url: mailto:info@zacharyshaleweiss.com
   - title: github
     url: https://github.com/ZachsHacks
   - title: linkedin
     url: https://www.linkedin.com/in/zacharyshaleweiss
+  - icon: file-pdf-o
+    title: resume
+    url: https://drive.google.com/file/d/0Bx5GB26OrXWiSjIyYUFwQ2l2emM/view?usp=sharing

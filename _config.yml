@@ -27,11 +27,14 @@ permalink: pretty
 social:
 
   - icon: envelope-o
-    title: envelope-o
+    title: email
     url: mailto:zweiss@brandeis.edu
   - title: linkedin
+    icon: linkedin
     url: https://www.linkedin.com/in/zacharyshaleweiss
   - title: github
+    icon: github
     url: https://github.com/ZachsHacks
   - title: Resumé
+    icon: file-pdf-o
     url: https://drive.google.com/open?id=0Bx5GB26OrXWiSjIyYUFwQ2l2emM

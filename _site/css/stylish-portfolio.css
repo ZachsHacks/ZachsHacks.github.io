@@ -176,8 +176,8 @@ hr.small {
     background-size: cover;
     -o-background-size: cover;
     background: linear-gradient(
-                     rgba(20,20,20, .2), 
-                     rgba(20,20,20, .2)),
+                     rgba(20,20,20, .7),
+                     rgba(20,20,20, .7)),
                      url(../img/bg.jpg) no-repeat center center scroll;
 }
 

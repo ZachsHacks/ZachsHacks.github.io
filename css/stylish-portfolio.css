@@ -175,10 +175,15 @@ hr.small {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    background: linear-gradient(
+    background-color: black;
+    /*background: linear-gradient(
                      rgba(20,20,20, .7),
                      rgba(20,20,20, .7)),
-                     url(../img/bg1.jpg) no-repeat center center scroll;
+                     url(../img/bg1.jpg) no-repeat center center scroll;*/
+}
+
+.videoheader{
+
 }
 
 /* About */

@@ -210,7 +210,7 @@ hr.small {
     background: linear-gradient(
                      rgba(20,20,20, .4),
                      rgba(20,20,20, .4)),
-                     url(../img/bg.jpg) no-repeat center center scroll;
+                     url(../img/bg1.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
